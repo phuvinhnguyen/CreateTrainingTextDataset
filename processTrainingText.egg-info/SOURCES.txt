@@ -1,0 +1,9 @@
+README.md
+setup.py
+processTrainingText/__init__.py
+processTrainingText/maxilen.py
+processTrainingText.egg-info/PKG-INFO
+processTrainingText.egg-info/SOURCES.txt
+processTrainingText.egg-info/dependency_links.txt
+processTrainingText.egg-info/requires.txt
+processTrainingText.egg-info/top_level.txt
