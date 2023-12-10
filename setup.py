@@ -8,8 +8,8 @@ setup(
     packages=find_packages(),
     install_requires=[
         # List any dependencies here
-        'transformers',
-        'datasets',
-        'tqdm',
+        # 'transformers',
+        # 'datasets',
+        # 'tqdm',
     ],
 )
