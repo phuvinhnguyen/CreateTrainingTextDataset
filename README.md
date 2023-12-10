@@ -1,5 +1,11 @@
 # CREATE TRAINING DATASET FROM TXT FILE
 
+## How to install
+
+```bash
+pip install "git+https://github.com/phuvinhnguyen/CreateTrainingTextDataset.git"
+```
+
 ## How to use
 
 ```python
